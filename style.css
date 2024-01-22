@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#droZone{
+    margin-top: 100px;
+}
+
+p{
+    
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    border: 2px solid black;
+    
+    
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#nuevoElementoId{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
